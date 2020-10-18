@@ -6,5 +6,7 @@ v1 = a1 + a2
 v2 = a1 - a2
 v1()
 v2()
+print(v2.__len__())
 print(v1 ^ "D")
+
 
